@@ -2,5 +2,5 @@
   <div>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
-  </div>#ffffffffff
+  </div>
 </template>
