@@ -1,7 +1,5 @@
 <template>
     <div>
-        <h1>Top Page</h1>
-        <hr>
-        <NuxtLink to="/price">Priceに遷移</NuxtLink>
+        <h1>indexページです。</h1>
     </div>
 </template>
